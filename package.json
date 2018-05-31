@@ -1,0 +1,21 @@
+{
+  "name": "herokuDeploymentExample",
+  "version": "1.0.0",
+  "description": "Deployment example for Heroku, for review session 31may2018",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehsieh89/herokuDeploymentExample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehsieh89/herokuDeploymentExample/issues"
+  },
+  "homepage": "https://github.com/mehsieh89/herokuDeploymentExample#readme"
+}
